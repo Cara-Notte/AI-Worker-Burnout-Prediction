@@ -19,11 +19,17 @@ This project focuses on predictive modeling. It does not establish whether AI ad
 This project uses the AI Worker Burnout and Attrition Risk Dataset, originally obtained from Kaggle.
 
 Original source: https://www.kaggle.com/datasets/nudratabbas/ai-worker-burnout-and-attrition-risk-dataset
+
 Attributed creator/uploader: Nudrat Abbas (nudratabbas)
+
 Filename: ai_worker_burnout_attrition_2026.csv
+
 Dataset size: 1,500 records and 21 columns
+
 Prediction target: burnout_score
+
 License: Not verified
+
 Data provenance: Not verified; whether the records are observed or synthetically generated remains unknown.
 
 The original Kaggle listing was unavailable when checked on October 14, 2026. Creator attribution was recovered from a secondary article referencing the same dataset.
