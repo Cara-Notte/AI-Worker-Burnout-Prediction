@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+reports/scratch/
+data/*.csv
+# The existing root dataset remains tracked; do not add additional raw copies.
